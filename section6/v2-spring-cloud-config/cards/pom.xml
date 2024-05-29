@@ -86,7 +86,7 @@
 				<version>3.4.0</version>
 				<configuration>
 					<to>
-						<image>eazybytes/${project.artifactId}:s6</image>
+						<image>aypatel03111990/${project.artifactId}:s6</image>
 					</to>
 				</configuration>
 			</plugin>
