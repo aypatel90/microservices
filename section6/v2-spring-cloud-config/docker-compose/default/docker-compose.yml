@@ -16,7 +16,7 @@ services:
       service: network-deploy-service
 
   configserver:
-    image: "aypatel03111990/configserver:s6"
+    image: "aypatel03111990/configserver:s7"
     container_name: configserver-ms
     ports:
       - "8071:8071"
